@@ -1,20 +1,29 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Add a docstring as the 1st rebase change.
+
+"""
+
 #-Imports.----------------------------------------------------------------------
 #--Python Imports.
 import sys
 
 #--wxPython Imports.
 import wx
-
+#rebase damnit
+#rebase damnit2
+#rebase damnit3
 class MyNamePanel(wx.Panel):
+    """"""
     def __init__(self, parent, id=wx.ID_ANY,
                  pos=wx.DefaultPosition, size=wx.DefaultSize,
                  style=wx.BORDER_SUNKEN, name='panel'):
         wx.Panel.__init__(self, parent, id, pos, size, style, name)
 
 class MyNameFrame(wx.Frame):
+    """"""
     def __init__(self, parent, id=wx.ID_ANY, title=wx.EmptyString,
                  pos=wx.DefaultPosition, size=wx.DefaultSize,
                  style=wx.DEFAULT_FRAME_STYLE, name='frame'):
@@ -26,8 +35,9 @@ class MyNameFrame(wx.Frame):
 
     def OnDestroy(self, event):
         self.Destroy()
-
+#2 files changed
 class MyNameApp(wx.App):
+    """"""
     def OnInit(self):
         self.SetClassName('MyNameApp')
         self.SetAppName('MyNameApp')
