@@ -4,8 +4,8 @@ wx/lib/art/flagart PNGs
 These images have been optimized with FileOptimizer http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer
 
 
-- [ ] TODO 
-----------
+TODO 
+----
 map every flag with a reference for sanity.
 
 
