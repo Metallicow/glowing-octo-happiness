@@ -6,7 +6,7 @@ These images have been optimized with FileOptimizer http://nikkhokkho.sourceforg
 
 TODO 
 ----
-map every flag with a reference for sanity.
+ * map every flag with a reference for sanity.
 
 
 BlaBla 
