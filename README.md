@@ -15,4 +15,7 @@ glowing-octo-happiness
 if True:
     run()
 ```
+
+[![TaskbarButton](https://raw.githubusercontent.com/Metallicow/glowing-octo-happiness/master/animated/Py38wxPy411DrawBenchmark.png)]
+
 </details>
